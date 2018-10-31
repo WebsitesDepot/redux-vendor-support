@@ -1,5 +1,5 @@
 {
-    "name": "reduxframework/redux-vendor-support",
+    "name": "redux-framework/redux-vendor-support",
     "minimum-stability": "stable",
     "require": {}
 }
